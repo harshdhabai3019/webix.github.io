@@ -1,0 +1,111 @@
+*{
+  box-sizing: border-box;
+}
+.clr1{
+  color: white;
+}
+.bi-bell-fill{
+  color: green;
+  padding-right: 6%;
+}
+.nav-item:hover{
+  background-color:rgb(22, 22, 22) ;
+  border-radius: 0.2rem ;
+}
+.nav-item a:hover{
+  color: white;
+}
+.bi-chat-dots{
+  color: green;
+  padding-right: 6%;
+}
+.icofont-download{
+  color: green;
+  padding-right: 6%;
+}
+.bi-collection-play{
+  color: green;
+  padding-right: 6%;
+}
+.bi-gear{
+  color: green;
+  padding-right: 6%;
+}
+.bi-box-arrow-in-right{
+  color: red;
+  padding-right: 6%;
+}
+.hm-fix{
+  width: 10rem;
+  height: 20rem;
+}
+.p-my1{
+  padding-right: 3.5rem;
+  color: black;
+}
+.p-my1 i{
+  padding: 0.5rem;
+  color: red;
+}
+.bi-stars{
+  color:deeppink;
+}
+.p-my12{
+  padding-right: 3.5rem;
+  color: black;
+}
+.up-1{
+  color: red;
+}
+.shadow1{
+  border: none;
+  border-radius: 5.5rem;
+  transition: 0.5s all;
+}
+.shadow1:hover{
+  box-shadow: 0px 0px 10px rgba(0,0,12);
+  border-radius: 00.5rem;
+  width: 12rem;
+}
+.bordertopic1{
+  border: none;
+  background-color: #f9bf51;
+  border-radius: 0.4rem;
+  box-shadow: 0px 0px 10px rgba(0,0,12);
+}
+.m-my1{
+  margin: 0.5rem;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+}
+#displayme{
+  display: none;
+}
+.bg-my{
+  background-color: black;
+}
+.icofont-navigation-menu{
+  color: white;
+  font-size: 1.5rem !important;
+}
+.navbar-toggler-icon{
+  display: hidden;
+}
+.bg-my-black{
+  background-color: rgb(12, 12, 12);
+}
+.nav-item a{
+  color: white;
+}
+.nav-item a:visited{
+  color: white;
+}
+.greenclr{
+  background-color: green;
+  color: white;
+}
+.genere{
+  margin-left: 0.1rem;
+  margin-top: 0.5rem;
+}
